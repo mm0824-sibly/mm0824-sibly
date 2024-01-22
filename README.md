@@ -1,4 +1,4 @@
-- 👋 Hi, I’m m sibly
+- 👋 Hi, I’m M Sibly
 - 👀 I’m interested in developmetnt and problem solving
 - 🌱 I’m currently learning SAP Fiori ad Hana Application development.
 - 💞️ I’m looking to collaborate on SAP developments
