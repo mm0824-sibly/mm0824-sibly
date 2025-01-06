@@ -1,8 +1,8 @@
 - 👋 Hi, I’m M Sibly
-- 👀 I’m interested in developmetnt and problem solving
-- 🌱 I’m currently learning SAP Fiori ad Hana Application development.
+- 👀 I’m interested in development and problem solving
+- 🌱 I’m an SAP Consultant
 - 💞️ I’m looking to collaborate on SAP developments
-- ⚡ Fun fact: Loading....
+- ⚡ Fun fact: Loading...
 
 <!---
 mm0824-sibly/mm0824-sibly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
