@@ -1,4 +1,4 @@
-- 👋 Hi, I’m M Sibly
+- 👋 Hi, I’m Muhammed Sibly B aka Sibly
 - 👀 I’m interested in development and problem-solving
 - 🌱 I’m an SAP Consultant
 - 💞️ I’m looking to collaborate on SAP developments
