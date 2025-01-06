@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M Sibly
-- 👀 I’m interested in development and problem solving
+- 👀 I’m interested in development and problem-solving
 - 🌱 I’m an SAP Consultant
 - 💞️ I’m looking to collaborate on SAP developments
 - ⚡ Fun fact: Loading...
